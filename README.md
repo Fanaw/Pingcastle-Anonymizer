@@ -5,8 +5,8 @@ HTML reports are parsed with BeautifulSoup4.
 
 ## TODO
 
-* Collect domain information
-* Collect category scores
+* ~~Collect domain name~~
+* ~~Collect category scores~~
 * Collect every rule
   * title
   * category points
@@ -23,3 +23,4 @@ HTML reports are parsed with BeautifulSoup4.
 * Collect Anomalies
 * Collect Password policies
 * Collect GPO
+* Export data to CSV file(s)
